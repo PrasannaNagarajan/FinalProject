@@ -7,7 +7,10 @@ Samy Monroy - sam534@pitt.edu
 
 Prasanna Nagarajan - prn37@pitt.edu
 
-Datasets and Descriptions: 
+### Datasets and Descriptions: 
+[City Pools](https://data.wprdc.org/dataset/city-pools/resource/5cc254fe-2cbd-4912-9f44-2f95f0beea9a)
+[Water Features](https://data.wprdc.org/dataset/city-water-features/resource/513290a6-2bac-4e41-8029-354cbda6a7b7)
+[Median Age at Death 2011-15 by Neighborhood, City of Pittsburgh](https://data.wprdc.org/dataset/median-age-death/resource/c2e1500a-a12a-4e91-be94-76c6a892b7e2)
 
 Overview: As people who hate water, the worst county is one where it is easist to drown to death or to even see water, meaning the best neighborhood is the most dry one. We have found the neighborhood that fellow thalassaphobiacs should avoid. 
 
