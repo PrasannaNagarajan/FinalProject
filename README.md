@@ -3,9 +3,11 @@ Big Ideas Fall 2022 Final Project
 
 ## Team name: Thalassaphobiacs 
 
-Samy Monroy - sam534@pitt.edu
+Canvas Group 28
 
-Prasanna Nagarajan - prn37@pitt.edu
+Samy Monroy - sam534@pitt.edu - SAM_NB (1).ipynb
+
+Prasanna Nagarajan - prn37@pitt.edu - prasanna_water_features.ipynb
 
 ### Datasets and Descriptions: 
 [City Pools](https://data.wprdc.org/dataset/city-pools/resource/5cc254fe-2cbd-4912-9f44-2f95f0beea9a): Includes the names, locations and other information about all pools in Pittsburgh. 
