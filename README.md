@@ -5,7 +5,7 @@ Big Ideas Fall 2022 Final Project
 
 Canvas Group 28
 
-Samy Monroy - sam534@pitt.edu - SAM_NB (1).ipynb
+Samy Monroy - sam534@pitt.edu - Sam_NB (1).ipynb
 
 Prasanna Nagarajan - prn37@pitt.edu - prasanna_water_features.ipynb
 
